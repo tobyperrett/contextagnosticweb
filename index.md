@@ -13,21 +13,19 @@ We address this oversight by incorporating a context-adversarial component into 
 ## Video
 
 
-<iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/8MtC6X4w4jE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/..." frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ## Paper
 
-[PDF](main.pdf)
-
-[ArXiv](https://arxiv.org/abs/1904.08634)
+[ArXiv](https://arxiv.org/pdf/2007.14658.pdf)
 
 ## Bibtex
 
 ```markdown
 @InProceedings{perrettdamen20ddlstm,
-    author    = {Perrett, Toby and Damen, Dima},
+    author    = {Perrett, Toby and Masullo, Alessandro and Burghardt, Tilo and Mirmehdi, Majid and Damen, Dima},
     title     = {Meta-Learning with Context-Agnostic Initialisations},
     booktitle = {Asian Conference on Computer Vision (ACCV)},
     year      = {2020}
