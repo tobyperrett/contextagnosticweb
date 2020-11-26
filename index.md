@@ -12,7 +12,7 @@ We address this oversight by incorporating a context-adversarial component into 
 
 ## Context in Few-shot Problems
 
-Here are two few-shot learning experimental setups for a character classification problem.  In this case, context information is the alphabet label, shown in colour.  Note that the context could be one or more other cues, such as author, font, etc.   The alphabet-based split is easier than the character-based split, as a meta-learner may become distracted by the alphabet during training.
+Here are two few-shot learning experimental setups for a character classification problem.  In this case, context information is the alphabet label, shown in colour.  Note that the context could be one or more other cues, such as author, font, etc.   The alphabet-based split, where context is shared between the train and test sets, is easier than the character-based split, as a meta-learner may become distracted by the alphabet during training.  We target splits where context is not shared between the train and test sets.
 
 ![Image](ab.png)
 
