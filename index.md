@@ -1,5 +1,5 @@
 <p align="center" style="font-size:30px">
-<a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="https://dimadamen.github.io/">Dima Damen</a>
+<a href="https://tobyperrett.github.io/">Toby Perrett</a>, <a href="http://www.alessandromasullo.com/">Alessandro Masullo</a>, <a href="http://people.cs.bris.ac.uk/~burghard//">Tilo Burghardt</a>, <a href="people.cs.bris.ac.uk/~majid/">Majid Mirmehdi</a>, <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
 
