@@ -11,7 +11,7 @@ University of Bristol
 
 ## Abstract
 
-Meta-learning approaches have addressed few-shot problems by finding initialisations suited for fine-tuning to target tasks. Often there are additional properties within training data (which we refer to as context), not relevant to the target task, which act as a distractor to meta-learning, particularly when the target task contains examples from a novel context not seen during training. 
+Meta-learning approaches have addressed few-shot problems by finding initialisations suited for fine-tuning to target tasks. Often there are additional properties within training data (which we refer to as context), not relevant to the target task.  These can act as a distractor to meta-learning, particularly when the target task contains examples from a novel context not seen during training. 
 
 We address this oversight by incorporating a context-adversarial component into the meta-learning process. This produces an initialisation which is both context-agnostic and task-generalised. We evaluate our approach on three commonly used meta-learning algorithms and four few-shot case studies: character classification with alphabets as context, image classification with superclasses as context, bird classification with colour as context and calorie regression from video with participants as context.
 Our context-agnostic meta-learning improves results in each case. 
