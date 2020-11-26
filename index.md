@@ -35,7 +35,7 @@ Here are two few-shot learning experimental setups for a character classificatio
 ## Bibtex
 
 ```markdown
-@InProceedings{perrettdamen20ddlstm,
+@InProceedings{perrett2020meta,
     author    = {Perrett, Toby and Masullo, Alessandro and Burghardt, Tilo and Mirmehdi, Majid and Damen, Dima},
     title     = {Meta-Learning with Context-Agnostic Initialisations},
     booktitle = {Asian Conference on Computer Vision (ACCV)},
